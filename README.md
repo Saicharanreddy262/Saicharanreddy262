@@ -28,7 +28,8 @@ I am Sai Charan Reddy Medagam, passionate about technology and driven by the des
 ---
 
 ## 📫 Let's Connect  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
+- **LinkedIn:** [Sai Charan Reddy Medagam](https://www.linkedin.com/in/sai-charan-reddy-medagam-1b588b2a7/)  
 - **GitHub:** [Your GitHub Profile](#)  
 
 Feel free to explore this repository to view the certifications that reflect my skills and dedication! 😊
+
